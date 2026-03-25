@@ -1,0 +1,1 @@
+"""Web content summarizer package."""
